@@ -8,7 +8,6 @@
       </a>
 </div>
 
-
 ## Resources
 
 1. <a href="https://www.patreon.com/posts/flutter-firebase-68845356?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare">Complete source code</a>
