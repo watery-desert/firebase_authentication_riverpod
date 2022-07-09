@@ -1,7 +1,7 @@
 # firebase_authentication_riverpod
 
 
-### Watch the tutorial 👇
+## Watch the tutorial 👇
 <div align="left">
       <a href="https://youtu.be/6yTI-MY--JI">
          <img src="https://img.youtube.com/vi/6yTI-MY--JI/0.jpg" style="width:50%;">
