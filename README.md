@@ -1,7 +1,11 @@
 # firebase_authentication_riverpod
 
+## Screen recording 👇
+
+<img src="https://raw.githubusercontent.com/watery-desert/assets/main/firebase-authentication-riverpod/screen-recording.gif" width="180"/>
 
 ## Watch the tutorial 👇
+
 <div align="left">
       <a href="https://youtu.be/6yTI-MY--JI">
          <img src="https://img.youtube.com/vi/6yTI-MY--JI/0.jpg" style="width:50%;">
